@@ -1,0 +1,95 @@
+.nigga{
+    
+    background-color: rgb(220, 5, 5);
+    color: aqua;
+    border: blue;
+    height: 25px;
+    width: 70px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 10px;
+    transition: opacity 1s;
+    vertical-align: top;
+    
+}
+  .nigga1{
+    background-color: aliceblue;
+    color: rgb(91, 171, 214);
+    border-color: rgb(91, 171, 214);
+    border-width: 1px;
+    height: 25px;
+    width: 70px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 10px;
+    transition: opacity 2s;
+    transition: background-colour 2s;
+    vertical-align: top;
+}
+.nigga2{
+    background-color: rgb(10, 134, 236);
+    border: none;
+    border-radius: 15px;
+    color: white;
+    margin-right: 12.5px;
+    font-weight: bold;
+    font-size: 12px;
+    vertical-align: top;
+    padding-top: 1px;
+    height: 25px;
+    width: 70px;
+    padding-bottom: 1px;
+    padding-left: 6px;
+    padding-right: 6px;
+   
+}
+ .nigga:hover{
+    background-color: brown;
+    opacity: 0.8;
+ }
+ .nigga:active{
+    background-color: rgb(129, 68, 3);
+    opacity: 0.8;
+ }
+ .nigga1:hover{
+    background-color: rgb(21, 72, 211);
+    
+ }
+ .nigga1:active{
+    background-color: blueviolet;
+    opacity: 0.8;
+ }
+ .nigga2:hover{
+    background-color: blue;
+    opacity: 0.8;
+    transition: opacity 2s;
+    box-shadow: 5px 5px 10px rgba( 0, 0, 0, 0.10);
+    transition: box-shadow 0.15s;
+    
+ }
+ .nigga2:active{
+    background-color: purple;
+    opacity: 0.8;
+ }
+ .jesse{
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 10px;
+   color: black;
+   width: 230px;
+   margin-bottom: 0;
+ }
+ .bat{
+   font-family: arial;
+   font-size: 8px;
+   color: rgb(139, 132, 132);
+   margin-top: 0;
+   
+ }
+ .jesse{
+    background-color: brown;
+ }
+ .this:hover{
+   text-decoration: underline;
+ }
+ 
